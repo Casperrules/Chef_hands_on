@@ -1,0 +1,9 @@
+[submodule "testcron"]
+	path = testcron
+	url = https://github.com/Casperrules/testcron.git
+[submodule "crontask"]
+	path = crontask
+	url = https://github.com/Casperrules/crontask.git
+[submodule "bashcreater"]
+	path = bashcreater
+	url = https://github.com/Casperrules/bashcreater.git
